@@ -42,6 +42,6 @@ The goal of this project was to construct an intuitive, interactive Tableau dash
 
 ## 🔗 Links & Resources
 
-* **Tableau Public:** [HR Analytics Dashboard on Tableau Publich](https://public.tableau.com/app/profile/omkar.pardeshi6052/viz/HRAnalyticsDashboard_17823382128750/HRAnalyticsDashboard)
+* **Tableau Public:** [HR Analytics Dashboard on Tableau Public](https://public.tableau.com/app/profile/omkar.pardeshi6052/viz/HRAnalyticsDashboard_17823382128750/HRAnalyticsDashboard)
 
 
