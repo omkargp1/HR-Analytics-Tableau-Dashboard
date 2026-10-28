@@ -39,3 +39,9 @@ The goal of this project was to construct an intuitive, interactive Tableau dash
 
 1. **Tableau Public / Desktop**: Open the workbook using [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Reader](https://www.tableau.com/products/reader).
 2. **Interact with Filters**: Use the global filters on the dashboard panel to adjust department, gender, and job role parameters to explore localized workforce insights.
+
+## 🔗 Links & Resources
+
+* **Tableau Public:** [HR Analytics Dashboard on Tableau Publich](https://public.tableau.com/app/profile/omkar.pardeshi6052/viz/HRAnalyticsDashboard_17823382128750/HRAnalyticsDashboard)
+
+
